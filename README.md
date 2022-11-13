@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nishalya Pethiyagoda
 - 👀 I’m interested in Mobile app, web and product development
 - 🌱 I’m currently learning at University of Sri Jayewardenepura
-- 💞️ I’m looking to collaborate on mini projects since i'm a 3rd year computer engineering undergraduate
+- 💞️ I’m looking to collaborate on mini projects
 - 📫 How to reach me pethiyagodank@gmail.com
 
 <!---
