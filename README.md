@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nishalya Pethiyagoda
-- 👀 I’m interested in Web development, Mobile app development and ML, Deep learning and AI
-- 🌱 I’m a 4th year Eng. undergrad at Faculty of Engineering, University of Sri Jayewardenepura, 
-- 💞️ I’m looking to collaborate on mini projects
+- 👀 I’m interested in Mobile app development, Web development, ML, Deep learning and AI
+- 🌱 I’m a Computer Engineer specialized in Software Engineering and Data Management
+- 💞️ I’m delighted to collaborate on projects esp. with above tech-stack
 - 
 - 📫 How to reach me: pethiyagodank@gmail.com
 
