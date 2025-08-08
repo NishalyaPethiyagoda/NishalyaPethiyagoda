@@ -2,7 +2,7 @@
 - 👀 I’m interested in Mobile app development, Web development, ML, Deep learning and AI
 - 🌱 I’m a Computer Engineer specialized in Software Engineering and Data Management
 - 💞️ I’m delighted to collaborate on projects esp. with above tech-stack
-- 
+  
 - 📫 How to reach me: pethiyagodank@gmail.com
 
 <!---
